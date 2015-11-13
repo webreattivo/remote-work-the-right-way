@@ -31,6 +31,7 @@ p {
     line-height: 28px;
     margin-bottom: 25px;
 	font-size: 18px;
+	text-align: left;
 }
 
 .centered {
@@ -182,6 +183,10 @@ a:after {
 	padding-top: 35px;
 	padding-bottom: 35px;
 	text-align: center;
+}
+
+.g ul, .dg ul {
+	text-align: left;
 }
 
 /* Footer Wrap */
