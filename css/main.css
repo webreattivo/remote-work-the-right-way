@@ -220,7 +220,7 @@ a:after {
 /* item Wrap */
 
 #itemwrap {
-	background: url(../img/item-bg.jpg) no-repeat center top;
+	background: url(/img/header-bg.jpg) no-repeat center top;
 	margin-top: 0px;
 	padding-top:70px;
 	text-align:center;
@@ -490,4 +490,11 @@ a:after {
 .team a {
 	padding-right: 10px;
 	padding-left: 10px;
+}
+
+@media (max-width: 1000px) {
+	#itemwrap h1 { font-size: 60px; }
+}
+@media (max-width: 500px) {
+	#itemwrap h1 { font-size: 60px;}
 }
