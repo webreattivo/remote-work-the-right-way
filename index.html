@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% for post in site.posts reversed %}
+    <section id="{{ post.anchor }}" name="{{ post.anchor }}"></section>
+    <div class="{{ post.type }}">
+        <div class="container">
+            <div class="row">
+                <{{ post.h }}>{{ post.title }}</{{ post.h }}>
+                {{post.content}}
+            </div>
+        </div><!-- /container -->
+    </div><!-- /g -->
+{% endfor %}

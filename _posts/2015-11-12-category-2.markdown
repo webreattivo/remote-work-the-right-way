@@ -1,0 +1,18 @@
+---
+title:  "Category Two"
+anchor: "category-2"
+type:   "dg"
+h:   "h2"
+---
+<div class="col-lg-6">
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac egestas leo. Sed ipsum sapien, interdum ut pretium nec, gravida vitae metus. Praesent tristique blandit justo, a cursus tellus posuere in. Pellentesque pretium ex augue, ut mollis diam ornare id.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac egestas leo. Sed ipsum sapien, interdum ut pretium nec, gravida vitae metus. Praesent tristique blandit justo, a cursus tellus posuere in. Pellentesque pretium ex augue, ut mollis diam ornare id.
+    </p>
+</div>
+<div class="col-lg-6">
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac egestas leo. Sed ipsum sapien, interdum ut pretium nec, gravida vitae metus. Praesent tristique blandit justo, a cursus tellus posuere in. Pellentesque pretium ex augue, ut mollis diam ornare id.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac egestas leo. Sed ipsum sapien, interdum ut pretium nec, gravida vitae metus. Praesent tristique blandit justo, a cursus tellus posuere in. Pellentesque pretium ex augue, ut mollis diam ornare id.
+    </p>
+</div>
