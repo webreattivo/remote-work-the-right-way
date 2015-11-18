@@ -1,5 +1,5 @@
 ---
-title:  "What are profiles of remote work ?"
+title:  "What are profiles of remote work?"
 anchor: "what_are_profiles_of_remote_work"
 type:   "g"
 h:   "h2"

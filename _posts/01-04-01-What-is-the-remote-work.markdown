@@ -1,5 +1,5 @@
 ---
-title:  "What is the remote work ?"
+title:  "What is the remote work?"
 anchor: "what_is_the_remote_work"
 type:   "dg"
 h:   "h2"
