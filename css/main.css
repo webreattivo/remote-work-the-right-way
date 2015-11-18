@@ -504,3 +504,8 @@ a:after {
 @media (max-width: 500px) {
 	#itemwrap h1 { font-size: 60px;}
 }
+
+/* Table */
+th{
+	text-align: center;
+}
