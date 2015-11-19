@@ -112,7 +112,6 @@ a:after {
 .g ul, .dg ul {
     text-align: left;
     list-style: square;
-    font-weight: bold;
 }
 
 /* Footer Wrap */
