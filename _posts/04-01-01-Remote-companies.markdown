@@ -8,7 +8,7 @@ h:   "h1"
     {% for company in site.data.companies %}
         <li class="list-group-item col-xs-3 text-center companies">
             <img src="{{company.pathimage}}"/><br />
-            <a href="{{company.url}}">{{company.name}}</a>
+            <a href="{{company.url}}" target="_blank">{{company.name}}</a>
         </li>      
     {% endfor %}
 </ul>

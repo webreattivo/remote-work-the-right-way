@@ -11,9 +11,10 @@ h:   "h2"
 * [Staying productive across distances](https://www.wrike.com/library/ebooks/staying-productive-across-distances){:target="_blank"} 
 * [Remote team management book](http://blog.hubstaff.com/remote-team-management-book){:target="_blank"} 
 
-###Documentaries
+###Documentaries / Video
 * [Digital Nomad Documentary](http://digitalnomaddocumentary.com){:target="_blank"} 
 * [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs){:target="_blank"} 
+* [Zach Holman: How GitHub Works](https://vimeo.com/43684882){:target="_blank"} 
 
 ###Sites
 * [nomadlist.com](https://nomadlist.com){:target="_blank"} 

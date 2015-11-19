@@ -5,4 +5,3 @@ type:   "g"
 h:   "h2"
 ---
 
-banners TODO

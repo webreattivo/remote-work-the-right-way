@@ -19,7 +19,7 @@ h:   "h2"
                 Increase productivity
             </td>
             <td>
-                Prone to burnout
+                Workaholism
             </td>
         </tr>    
         <tr>
@@ -56,3 +56,12 @@ h:   "h2"
     </tbody>
 </table>
 </div>
+
+
+Con: workaholism
+
+> So, there is no commute, no office gossip, no coffee or lunch breaks with your teammates, and next to no human interaction. 
+This could be a disastrous combination if you are prone to burnout. You’ll end up pushing yourself harder than you should, and 
+since there’s nobody around to notice that you could use a break, chances are you won’t figure it out until it’s too late.
+
+<sup>**Taken from [Things To Watch Out For While Working Remotely](http://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale){:target="_blank"}**</sup>
