@@ -4,5 +4,11 @@ anchor: "remote_companies"
 type:   "g"
 h:   "h1"
 ---
-
-Remote companies
+<ul class="list-group row">
+    {% for company in site.data.companies %}
+        <li class="list-group-item col-xs-3 text-center companies">
+            <img src="{{company.pathimage}}"/><br />
+            <a href="{{company.url}}">{{company.name}}</a>
+        </li>      
+    {% endfor %}
+</ul>

@@ -1,0 +1,31 @@
+- name: Automattic
+  pathimage: /img/companies/automattic.png
+  url: https://†.com
+
+- name: Basecamp
+  pathimage: /img/companies/basecamp.png
+  url: https://basecamp.com
+
+- name: Buffer
+  pathimage: /img/companies/buffer.png
+  url: https://buffer.com
+
+- name: Circleci
+  pathimage: /img/companies/circleci.png
+  url: https://circleci.com
+
+- name: Digital Ocean
+  pathimage: /img/companies/digitalocean.png
+  url: https://www.digitalocean.com
+
+- name: Github
+  pathimage: /img/companies/github.jpg
+  url: https://github.com
+
+- name: Ghost
+  pathimage: /img/companies/ghost.png
+  url: https://ghost.org
+
+- name: Toptal
+  pathimage: /img/companies/toptal.png
+  url: https://www.toptal.com
