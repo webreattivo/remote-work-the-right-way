@@ -16,7 +16,7 @@ h:   "h2"
     <tbody>
         <tr>
             <td>
-                Increase productivity
+                Increased productivity
             </td>
             <td>
                 Workaholism
@@ -43,12 +43,12 @@ h:   "h2"
                 Access to infrastructure
             </td>
             <td>
-                Face to face networking loss
+                Loss of face-to-face networking 
             </td>
         </tr>
         <tr>
             <td>
-                Flex location
+                Flexible location
             </td>
             <td>
             </td>
