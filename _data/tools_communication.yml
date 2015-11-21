@@ -1,0 +1,35 @@
+- name: Appear.in
+  url: https://appear.in/
+  description: Create a room and invite friends for video calls
+
+- name: Bluejeans
+  url: http://bluejeans.com
+  description: Video conferencing
+
+- name: Codeshare
+  url: http://codeshare.io
+  description: Share code in real-time with other developers
+
+- name: Flowdock
+  url: https://www.flowdock.com
+  description: Team collaboration app for desktop, mobile & web
+
+- name: HipChat
+  url: https://www.hipchat.com
+  description: Group and private chat, file sharing, and integrations
+
+- name: Skype
+  url: http://www.skype.com
+  description: Video calls and chat
+
+- name: Slack
+  url: https://slack.com
+  description: hat system with many integration options
+
+- name: ScreenHero
+  url: https://screenhero.com
+  description: Real-time, HD screen sharing for collaboration in teams
+
+- name: Sqwiggle
+  url: https://www.sqwiggle.com
+  description: Online Collaboration Software for Remote and Virtual Teams

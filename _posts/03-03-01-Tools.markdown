@@ -5,28 +5,35 @@ type:   "dg"
 h:   "h2"
 ---
 
-###Communication
-* [Appear.in](https://appear.in){:target="_blank"} (Create a room and invite friends for video calls)
-* [Bluejeans](http://bluejeans.com) (Video conferencing)
-* [Codeshare](http://codeshare.io/){:target="_blank"} (Share code in real-time with other developers)
-* [Flowdock](https://www.flowdock.com){:target="_blank"} (Team collaboration app for desktop, mobile & web.)
-* [HipChat](https://www.hipchat.com/){:target="_blank"} (Group and private chat, file sharing, and integrations.)
-* [Skype](http://www.skype.com){:target="_blank"} (Video calls and chat.)
-* [Slack](https://slack.com){:target="_blank"} (Chat system with many integration options.)
-* [ScreenHero](https://screenhero.com){:target="_blank"} (Real-time, HD screen sharing for collaboration in teams.)
-* [Sqwiggle](https://www.sqwiggle.com){:target="_blank"} (Online Collaboration Software for Remote and Virtual Teams.)
+### Communication
+<ul class="list-group row list-rw-c">
+{% for tool in site.data.tools_communication %}
+    <li class="list-group-item col-xs-3 text-center">
+        <a href="{{tool.url}}" target="_blank">{{tool.name}}</a><br/>
+        <sub>{{tool.description}}</sub>
+    </li>          
+{% endfor %}
+</ul>
 
-###Project Managment
-* [Asana](https://asana.com){:target="_blank"} (Project management app for distributed teams)
-* [Due](https://duetapp.com){:target="_blank"} (Project management for freelancers and small businesses)
-* [Jira](https://www.atlassian.com/software/jira){:target="_blank"} (Issue & Project Tracking for Software Teams)
-* [Trello](https://trello.com){:target="_blank"} (Visual way to organize anything with anyone)
+### Project Managment
+<ul class="list-group row list-rw-c">
+{% for tool in site.data.tools_project_managment %}
+    <li class="list-group-item col-xs-3 text-center">
+        <a href="{{tool.url}}" target="_blank">{{tool.name}}</a><br/>
+        <sub>{{tool.description}}</sub>
+    </li>          
+{% endfor %}
+</ul>
 
 ###Others
-* [Cloud9](https://c9.io){:target="_blank"} (Development environment in the cloud)
-* [Timezone](http://timezone.io){:target="_blank"} (Manage the timezones of your distributed team)
-* [Hackpad](https://hackpad.com){:target="_blank"} (Collaborate instantly on documents)
-* [Noisli](http://www.noisli.com){:target="_blank"} (Improve focus and boost your productivity with sounds)
+<ul class="list-group row list-rw-c">
+{% for tool in site.data.tools_others %}
+    <li class="list-group-item col-xs-3 text-center">
+        <a href="{{tool.url}}" target="_blank">{{tool.name}}</a><br/>
+        <sub>{{tool.description}}</sub>
+    </li>          
+{% endfor %}
+</ul>
 
 
 

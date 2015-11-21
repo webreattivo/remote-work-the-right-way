@@ -1,0 +1,15 @@
+- name: Asana
+  url: https://asana.com
+  description: Project management app for distributed teams
+
+- name: Due
+  url: https://duetapp.com
+  description: Project management for freelancers and small businesses
+
+- name: Jira
+  url: https://www.atlassian.com/software/jira
+  description: Issue & Project Tracking for Software Teams
+
+- name: Trello
+  url: https://trello.com
+  description: Visual way to organize anything with anyon

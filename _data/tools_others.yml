@@ -1,0 +1,15 @@
+- name: Cloud9
+  url: https://c9.io
+  description: Development environment in the cloud
+
+- name: Timezone
+  url: http://timezone.io
+  description: Manage the timezones of your distributed team
+
+- name: Hackpad
+  url: https://hackpad.com
+  description: Collaborate instantly on documents
+
+- name: Noisli
+  url: http://www.noisli.com
+  description: Improve focus and boost your productivity with sounds

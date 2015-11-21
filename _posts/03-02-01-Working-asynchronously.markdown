@@ -1,7 +1,7 @@
 ---
 title:  "Working-asynchronously"
 anchor: "working_asynchronously"
-type:   "dg"
+type:   "g"
 h:   "h2"
 ---
 > "An **asynchronos** working style is one where the entire team rarely, if ever, gets together for big agreements and 
