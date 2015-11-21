@@ -1,0 +1,86 @@
+- name: Angel List
+  url: https://angel.co/jobs
+
+- name: Authenticjobs
+  url: http://www.authenticjobs.com
+
+- name: Careers Stackoverflow
+  url: http://careers.stackoverflow.com/jobs/remote
+
+- name: Dribbble Jobs
+  url: https://dribbble.com/jobs?location=Anywhere
+
+- name: Flexjobs
+  url: https://www.flexjobs.com
+
+- name: Front-end Developer Jobs
+  url: http://frontenddeveloperjob.com
+
+- name: F6s
+  url: http://www.f6s.com/job
+
+- name: Gun
+  url: http://gun.io
+
+- name: Gittask
+  url: https://gittask.com
+
+- name: Github Jobs
+  url: https://jobs.github.com
+
+- name: Hasjob
+  url: https://hasjob.co
+
+- name: HN hiring
+  url: http://hnhiring.me/
+
+- name: Jobmote
+  url: http://jobmote.com
+
+- name: Jobspresso
+  url: http://jobspresso.co
+
+- name: Jobs Remotely
+  url: https://jobsremotely.com
+
+- name: Landing.jobs
+  url: https://landing.jobs/offers
+
+- name: London Startup Job
+  url: http://londonstartupjobs.co.uk
+
+- name: Nofluffjobs
+  url: https://nofluffjobs.com
+
+- name: Outsourcely
+  url: https://www.outsourcely.com
+
+- name: Remote Ok
+  url: http://remoteok.io
+
+- name: Remotely Awesome Jobs
+  url: http://www.remotelyawesomejobs.com
+
+- name: Remote Work Hunt
+  url: http://www.remoteworkhunt.com
+
+- name: Remotive
+  url: http://jobs.remotive.io
+
+- name: Startus
+  url: https://www.startus.cc
+
+- name: Talentboard
+  url: http://talentboard.me
+
+- name: Wfh
+  url: https://www.wfh.io
+
+- name: Working Nomads
+  url: http://www.workingnomads.co/jobs
+
+- name: We Work Remotely
+  url: https://weworkremotely.com
+
+- name: Work in Startups
+  url: http://workinstartups.com
