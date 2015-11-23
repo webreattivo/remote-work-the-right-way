@@ -5,6 +5,8 @@ type:   "dg"
 h:   "h2"
 ---
 
+<section id="tools_communication" name="tools_communication"></section>
+
 ### Communication
 <ul class="list-group row list-rw tools">
 {% for tool in site.data.tools_communication %}
@@ -15,7 +17,9 @@ h:   "h2"
 {% endfor %}
 </ul>
 
-### Project Managment
+<section id="tools_prj_management" name="tools_prj_management"></section>
+
+### Project Management
 <ul class="list-group row list-rw tools">
 {% for tool in site.data.tools_project_managment %}
     <li class="list-group-item col-xs-12 col-md-3 text-center">
@@ -24,6 +28,8 @@ h:   "h2"
     </li>          
 {% endfor %}
 </ul>
+
+<section id="tools_others" name="tools_others"></section>
 
 ###Others
 <ul class="list-group row list-rw tools">

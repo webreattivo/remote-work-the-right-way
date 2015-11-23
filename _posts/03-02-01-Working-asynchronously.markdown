@@ -26,6 +26,8 @@ __Code is a creative endeavor.__ You need to be in the __right mindset__ to crea
 
 <sup>__*Taken from [How GitHub Works: Hours are Bullshit](http://zachholman.com/posts/how-github-works-hours/){:target="_blank"}*__</sup>
 
+<section id="emails" name="emails"></section>
+
 ###Make email work
 
 >
@@ -41,6 +43,8 @@ __Code is a creative endeavor.__ You need to be in the __right mindset__ to crea
     Can I answer it myself, or ask someone local? Don't block an important thread with a trivial question.
 
 <sup>__*Taken from [30 Tips for Successful Communication as a Remote Worker](http://www.hanselman.com/blog/30TipsForSuccessfulCommunicationAsARemoteWorker.aspx){:target="_blank"}*__</sup>
+
+<section id="meetings" name="meetings"></section>
 
 ###Make meetings effective
 

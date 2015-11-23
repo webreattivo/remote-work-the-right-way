@@ -47,10 +47,6 @@ p {
     color: #000000;
 }
 
-ul {
-    font-weight: bold;
-}
-
 .centered {
     text-align: center;
 }
@@ -81,6 +77,10 @@ a:after {
     -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
     -o-transition: color 0.1s ease-in, background 0.1s ease-in;
     transition: color 0.1s ease-in, background 0.1s ease-in;
+}
+
+blockquote {
+    border-left: 6px solid #bfbdbd;
 }
 
 #w {
@@ -428,6 +428,7 @@ a:after {
 .list-rw {
     margin-right: 0;
     margin-left: 0;
+    font-weight: bold;
 }
 
 .list-rw li {
