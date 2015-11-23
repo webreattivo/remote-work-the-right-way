@@ -47,6 +47,10 @@ p {
     color: #000000;
 }
 
+ul {
+    font-weight: bold;
+}
+
 .centered {
     text-align: center;
 }
@@ -54,6 +58,7 @@ p {
 /* Links */
 a {
     color: red;
+    font-weight: bold;
     word-wrap: break-word;
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
     -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -64,7 +69,7 @@ a {
 
 a:hover,
 a:focus {
-    color: black;
+    /*color: black;*/
     text-decoration: none;
     outline: 0;
 }
@@ -402,13 +407,13 @@ a:after {
 
 }
 
-@media (max-width: 1000px) {
-    #itemwrap h1 {
-        font-size: 60px;
+@media (min-width: 768px){
+    ul.tools li {
+        min-height: 88px;
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1000px) {
     #itemwrap h1 {
         font-size: 60px;
     }
@@ -417,35 +422,14 @@ a:after {
 .companies {
     padding: 10px 0;
     min-height: 110px;
+    background-color: white !important;
+}
+
+.list-rw {
+    margin-right: 0;
+    margin-left: 0;
 }
 
 .list-rw li {
     background-color: #efefef;
-}
-
-.list-rw li a {
-    color: #000000;
-    font-weight: bold;
-}
-
-.list-rw li a:hover {
-    color: red;
-}
-
-.list-rw-c li {
-     background-color: #efefef;
-     min-height: 90px;
- }
-
-.list-rw-c li a {
-    color: #000000;
-    font-weight: bold;
-}
-
-.list-rw-c li a:hover {
-    color: red;
-}
-
-.list-rw-c sub {
-    font-weight: bold;
 }

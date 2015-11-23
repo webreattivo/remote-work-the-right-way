@@ -10,5 +10,6 @@ Remote work can be described in many ways, the simpler could be:
 [telesaur.com](http://www.telesaur.com){:target="_blank"}
 This can include working from a home office, from a coworking space and/or working from any other imaginable environment 
 (hotel, beach, in transit, etc.)
-There are many keywords related to this way of work, like telecommuting, home, remote, mobile, virtual, location indipendent, 
+There are many keywords related to this way of work, like telecommuting, home, remote, mobile, virtual, location 
+indipendent, 
 nomad or cloud working.

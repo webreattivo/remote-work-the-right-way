@@ -6,9 +6,9 @@ h:   "h2"
 ---
 
 ### Communication
-<ul class="list-group row list-rw-c">
+<ul class="list-group row list-rw tools">
 {% for tool in site.data.tools_communication %}
-    <li class="list-group-item col-xs-3 text-center">
+    <li class="list-group-item col-xs-12 col-md-3 text-center">
         <a href="{{tool.url}}" target="_blank">{{tool.name}}</a><br/>
         <sub>{{tool.description}}</sub>
     </li>          
@@ -16,9 +16,9 @@ h:   "h2"
 </ul>
 
 ### Project Managment
-<ul class="list-group row list-rw-c">
+<ul class="list-group row list-rw tools">
 {% for tool in site.data.tools_project_managment %}
-    <li class="list-group-item col-xs-3 text-center">
+    <li class="list-group-item col-xs-12 col-md-3 text-center">
         <a href="{{tool.url}}" target="_blank">{{tool.name}}</a><br/>
         <sub>{{tool.description}}</sub>
     </li>          
@@ -26,9 +26,9 @@ h:   "h2"
 </ul>
 
 ###Others
-<ul class="list-group row list-rw-c">
+<ul class="list-group row list-rw tools">
 {% for tool in site.data.tools_others %}
-    <li class="list-group-item col-xs-3 text-center">
+    <li class="list-group-item col-xs-12 col-md-3 text-center">
         <a href="{{tool.url}}" target="_blank">{{tool.name}}</a><br/>
         <sub>{{tool.description}}</sub>
     </li>          

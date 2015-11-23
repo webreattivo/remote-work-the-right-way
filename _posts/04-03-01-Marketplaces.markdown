@@ -6,7 +6,7 @@ h:   "h2"
 ---
 <ul class="list-group row list-rw">
 {% for marketplace in site.data.marketplaces %}
-    <li class="list-group-item col-xs-3 text-center">
+    <li class="list-group-item col-xs-12 col-md-3 text-center">
         <a href="{{marketplace.url}}" target="_blank">{{marketplace.name}}</a>
     </li>          
 {% endfor %}
