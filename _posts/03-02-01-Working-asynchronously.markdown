@@ -13,7 +13,7 @@ __Working asynchronously certainly enables the team to be geographically distrib
 
 > This is — by far — my favorite aspect of working at GitHub. Everything is asynchronous.
 ..Asynchronous communication means I can take a step out for lunch and catch up on transcripts when I get back. Asynchronous 
-communication means I can ask my co-worker a question in chat and not worry about bothering her since she'll get back to me when 
+communication means I can ask my coworker a question in chat and not worry about bothering her since she'll get back to me when 
 she's available. Asynchronous communication means I can go to rural Minnesota and feel like I'm working from the office like normal.
 
 <sup>__*Taken from [How GitHub Works: Be Asynchronous](http://zachholman.com/posts/how-github-works-asynchronous/){:target="_blank"}*__</sup>
