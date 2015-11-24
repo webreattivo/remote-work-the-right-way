@@ -14,6 +14,14 @@ h:   "h2"
     {% endfor %}      
 </ul>
 
+### Cons
+<ul class="list-group row list-rw prosCons">
+    {% for con in site.data.cons_companies %}
+        <li class="list-group-item col-xs-12 col-md-3 text-center">
+            {{con}} 
+        </li>          
+    {% endfor %}      
+</ul>
 
 Pro: It’s more eco-friendly
 
@@ -34,12 +42,3 @@ professional life
 and their personal life, an interesting thing happens: they become grateful
 
 <sup>_Taken from_: [6 Interesting Benefits of Remote Work](https://remote.co/6-interesting-benefits-of-remote-work/)</sup>              
-
-### Cons
-<ul class="list-group row list-rw prosCons">
-    {% for con in site.data.cons_companies %}
-        <li class="list-group-item col-xs-12 col-md-3 text-center">
-            {{con}} 
-        </li>          
-    {% endfor %}      
-</ul>
