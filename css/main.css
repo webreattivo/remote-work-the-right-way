@@ -434,3 +434,18 @@ blockquote {
 .list-rw li {
     background-color: #efefef;
 }
+.share {
+    margin-top: 20px;
+}
+.share a {
+    margin: 0 5px;
+}
+.btn-share-twitter {
+    background-color: #55acee;
+    color: #ffffff;
+}
+
+.btn-share-fb {
+    background-color: #3b5998;
+    color: #ffffff;
+}
