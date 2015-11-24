@@ -31,7 +31,7 @@ h:   "h2"
 
 <section id="tools_others" name="tools_others"></section>
 
-###Others
+### Others
 <ul class="list-group row list-rw tools">
 {% for tool in site.data.tools_others %}
     <li class="list-group-item col-xs-12 col-md-3 text-center">

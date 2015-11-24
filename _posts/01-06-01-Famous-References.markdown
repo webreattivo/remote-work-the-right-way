@@ -23,7 +23,7 @@ h:   "h2"
     {% endfor %}      
 </ul>
 
-###Sites
+### Sites
 <ul class="list-group row list-rw famousReferences">
     {% for site in site.data.famous_references_sites %}
         <li class="list-group-item col-xs-12 col-md-3 text-center">
@@ -32,7 +32,8 @@ h:   "h2"
     {% endfor %}      
 </ul>
 
-###Quotes
+### Quotes
+
 > __Jeff Atwood says:__ “I picked developers who I knew — I had incontrovertible proof — were amazing programmers. 
 I’m not saying they’re perfect, far from it, merely that they were top programmers by any metric you’d care to 
 measure. That’s why they were able to work remotely… 

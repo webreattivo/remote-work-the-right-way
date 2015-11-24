@@ -15,7 +15,6 @@ h:   "h2"
 </ul>
 
 
-
 Pro: It’s more eco-friendly
 
 > As a remote employer, each member of your workforce who works from home greatly reduces his carbon footprint 
@@ -34,7 +33,7 @@ Pro: They’ll be more loyal
 professional life 
 and their personal life, an interesting thing happens: they become grateful
 
-<sup>**Taken from [6 Interesting Benefits of Remote Work](https://remote.co/6-interesting-benefits-of-remote-work/){:target="_blank"}**</sup>              
+<sup>_Taken from_: [6 Interesting Benefits of Remote Work](https://remote.co/6-interesting-benefits-of-remote-work/)</sup>              
 
 ### Cons
 <ul class="list-group row list-rw prosCons">
