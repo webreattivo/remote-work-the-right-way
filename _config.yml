@@ -4,7 +4,7 @@ description: Have you ever heard about “Remote work”? There are a lot of res
  from several perspectives. We want to sum up all the best practices of this way of working picking the best
  resources on the web.
 baseurl: ""
-url: "remoteworktherightway.com"
+url: "http://www.remoteworktherightway.com"
 
 # Build settings
 highlighter: pygments
