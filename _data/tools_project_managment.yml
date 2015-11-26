@@ -10,6 +10,10 @@
   url: https://www.atlassian.com/software/jira
   description: Issue & Project Tracking for Software Teams
 
+- name: Timeneye
+  url:  https://www.timeneye.com
+  description: Simple intelligent time tracking
+
 - name: Trello
   url: https://trello.com
   description: Visual way to organize anything with anyon
