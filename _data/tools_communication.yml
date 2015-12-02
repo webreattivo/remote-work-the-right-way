@@ -24,7 +24,7 @@
 
 - name: Slack
   url: https://slack.com
-  description: hat system with many integration options
+  description: chat system with many integration options
 
 - name: ScreenHero
   url: https://screenhero.com
