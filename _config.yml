@@ -4,10 +4,10 @@ description: Have you ever heard about “Remote work”? There are a lot of res
  from several perspectives. We want to sum up all the best practices of this way of working picking the best
  resources on the web.
 baseurl: ""
-url: "http://www.remoteworktherightway.com"
+url: "https://webreattivo.github.io/remote-work-the-right-way"
 
 # Build settings
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
